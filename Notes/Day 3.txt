@@ -1,0 +1,95 @@
+PRE-REQUISITE
+-BASIC PROGRAM 
+-PATTERN PROBLEMS
+-DATA TYPES
+
+=================================
+
+CONDITIONAL STATEMENTS
+
+1. IF ELSE: SYNTAX
+
+2. IF ELSE-IF: SYNTAX
+
+3. IF ELSE LADDER: SYNTAX
+					if(condition-1:boolean)
+					{
+						//code
+					}......
+					else if(condition-2)
+					{
+						//code
+					}......
+					else
+					{
+						//code
+					}
+
+4. SWITCH CASE: SYNTAX
+				switch(expression) {
+  					case x:
+    					// code block
+    					break;
+  					case y:
+    					// code block
+    					break;
+					....
+					....
+  					default:
+    					// code block
+}
+-break importance
+Alt+Enter: Enhanced Switch 
+
+
+
+
+https://github.com/amanruhela2003/SEC-C_DSA_TRAINING
+
+
+===============================================
+
+DISCUSSION:
+
+-EVEN OR ODD
+-CHECK WHETHER AN ALPHABET(UPPER OR LOWER CASE)
+-CHECK WHETHER A NUMBER IS PRIME OR NOT
+
+-WEEKEND/WEEKDAY PROGRAM
+-HOLLOW SQUARE PATTERN
+-POWER OF 2(BITWISE AND)
+
+===========================================================
+HOW TO TAKE INPUT
+-SCANNER CLASS
+-SYSTEM.IN
+
+LOGICAL OPERATOR
+-AND, OR, NOT
+
+ARRAY-
+-ARRAY INTRODUCTION
+-TYPES OF ARRAY
+-ADVANTAGE
+-DISADVANTAGE
+
+
+===============================================================
+
+PRACTICE PROBLEM:
+
+1. SWITCH CASE- 
+	A.CHECK VOWEL IN GIVEN WORD, 
+	B.BASIC CALCULATOR(+,-,*,/,%),
+	C.FRUIT PROPERTY
+2. MAGIC NUMBER
+ 
+
+
+
+
+
+
+
+
+
