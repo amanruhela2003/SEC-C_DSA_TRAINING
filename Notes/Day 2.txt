@@ -1,0 +1,134 @@
+Pre-Requisite
+-VS Code
+-JDK
+-JAVA RUN
+
+LOOPS
+1. For Loop: Syntax
+	
+	for(initialisation;condition;increment/decrement)
+	{
+		//Code
+
+	}
+
+2. While Loop: Syntax
+
+3. do while loop: Syntax
+
+=========================================
+
+PATTERNS:
+
+-BASIC SYNTAX
+
+OUTER FOR LOOP
+{
+	INNNER FOR LOOP
+		{
+			//LOGIC
+			//PRINT(SYMBOL,NUMBER,CHAR) IN ONE LINE
+		}
+	//JUMP TO TO NEXT LINE
+}
+
+Pattern Approach
+1.No of row-i
+2.no of col-j
+3.print+logic
+
+
+1.
+*****
+*****
+*****
+*****
+*****
+
+
+2.
+*
+**
+***
+****
+*****
+
+3.
+*****
+****
+***
+**
+*
+
+4.
+1
+12
+123
+1234
+12345
+
+1
+10
+101
+1010
+10101
+
+5.
+4 4 4 4 4 4 4  
+4 3 3 3 3 3 4   
+4 3 2 2 2 3 4   
+4 3 2 1 2 3 4   
+4 3 2 2 2 3 4   
+4 3 3 3 3 3 4   
+4 4 4 4 4 4 4   
+
+
+-REVERSE OF NUMBER
+-ARMSTRONG NUMBER
+
+1234
+4321
+
+
+
+
+======================================
+
+CHALLENGE PROBLEMS:
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+12345
+1234
+123
+12
+1
+
+101010
+010101
+101010
+010101
+101010
+
+CHECK PALINDROME
+
+
+
+
+
+
+
+
+
+
+
+
+
