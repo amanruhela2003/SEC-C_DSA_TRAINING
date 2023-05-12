@@ -1,10 +1,12 @@
-package Programs.Arrays;
+
 
 public class MissingNumber {
 
     static void missing(int arr[],int n){
-        int sum=0;
-        sum=((n+1)*(n))/2;
+        int sum=0;//sum=n(n+1)/2
+        int m=n+1;
+        sum=(m*(m+1))/2;
+        System.out.println(sum);
         for (int i = 0; i < arr.length; i++) {
             sum=sum-arr[i];
         }
